@@ -1,4 +1,4 @@
-# BeautyGanApp
+# Title: BeautyGanApp
 <h2>Beauty Gan 실습
 <p>imgs link: 
 
